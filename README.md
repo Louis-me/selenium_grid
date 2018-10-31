@@ -3,7 +3,7 @@
 -  java安装，以及环境配置
 - python 3.4环境
 - selenium安装 ```pip install selenium```
-- Chromedriver 要和本地的chrome浏览器匹配,点击下载
+- Chromedriver 要和本地的chrome浏览器匹配,[点击下载](http://npm.taobao.org/mirrors/chromedriver/)
 - 下载selenium-server-standalone[点击下载](http://selenium-release.storage.googleapis.com/index.html)
 - 准备2台pc，如果是虚拟机，选择桥接，2台pc互相能ping通,本次测试为本机
 
